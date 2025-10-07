@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f5f7fa;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+/* Header */
+.header {
+  text-align: center;
+  background-color: #007bff;
+  color: white;
+  padding: 40px 0;
+}
+
+.subtitle {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+/* Main Container */
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+/* Box Model Examples */
+.intro-box {
+  background-color: #e3f2fd;
+  border: 2px solid #90caf9;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.card {
+  background-color: #ffffff;
+  border: 2px solid #ddd;
+  padding: 30px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Button */
+.btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  background-color: #222;
+  color: white;
+  padding: 20px;
+  margin-top: 40px;
+}
